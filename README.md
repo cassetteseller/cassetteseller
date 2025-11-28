@@ -23,7 +23,7 @@
             
   </p>
    <p>
-   - I speak Russian and English and live in the wonderful country of the Russian Federation.
+   - I speak Russian and English and live in the wonderful country - Russian Federation.
      <img src = "https://i.pinimg.com/736x/2d/5c/a2/2d5ca2990fdbf73fb4f38e322e38418f.jpg" width="50" alt="Logo" draggable="false">
           </p> 
 <p>
