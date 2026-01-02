@@ -27,7 +27,7 @@
      <img src = "https://i.pinimg.com/736x/2d/5c/a2/2d5ca2990fdbf73fb4f38e322e38418f.jpg" width="50" alt="Logo" draggable="false">
           </p> 
 <p>
-    - My fandoms: FORSAKEN, Bloxy Tales, Phighting, JSAB, The Pink Corruption, ^_^, DOOM, Stray, Transformers, Skibidi Toilets, Metal Card Bots, Tobots and more!
+    - My fandoms: FORSAKEN, Bloxy Tales, Phighting, JSAB, The Pink Corruption, ^_^, DOOM, Stray, Transformers, Skibidi Toilets, Metal Card Bots, Tobots, Madness Combat and more!
   <img src = "https://i.pinimg.com/736x/5e/d0/11/5ed011837e30eb8ec7738d3e146cd13a.jpg" width="50" alt="Logo" draggable="false">
           </p> 
           <p>
