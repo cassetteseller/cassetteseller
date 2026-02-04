@@ -2,7 +2,7 @@
 <html>
  
   <header>
-    <img src = "[https://i.pinimg.com/736x/2c/a2/30/2ca23051e0a65307c635b29040adf009.jpg?width=400" width="200" alt="Logo" draggable="false">
+    <img src = "https://i.pinimg.com/736x/2c/a2/30/2ca23051e0a65307c635b29040adf009.jpg?width=400" width="200" alt="Logo" draggable="false">
       <h3> MY INFO </h3> 
     <nav id="menu1">
 
