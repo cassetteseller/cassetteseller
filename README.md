@@ -19,24 +19,24 @@
           <h3> Hi! Im a cassetteseller (just nickname) or cassette! </h3>
           <p>
           - My pronouns are she/her, rarely he/his.  
-           <img src = "https://i.pinimg.com/736x/98/4d/5a/984d5a32321ab37a75b13152d644ac81.jpg" width="50" alt="Logo" draggable="false">
+           <img src = "https://i.pinimg.com/736x/82/aa/b2/82aab2e391476888955b1b0c0da320ed.jpg" width="50" alt="Logo" draggable="false">
             
   </p>
    <p>
    - I speak Russian and English and live in the wonderful country - Russian Federation.
-     <img src = "https://i.pinimg.com/736x/2d/5c/a2/2d5ca2990fdbf73fb4f38e322e38418f.jpg" width="50" alt="Logo" draggable="false">
+     <img src = "https://i.pinimg.com/736x/1d/84/b6/1d84b6d98eaf75731975847381a80a5d.jpg" width="50" alt="Logo" draggable="false">
           </p> 
 <p>
     - My fandoms: FORSAKEN, Bloxy Tales, Phighting, JSAB, The Pink Corruption, ^_^, DOOM, Stray, Transformers, Skibidi Toilets, Metal Card Bots, Tobots, Madness Combat and more!
-  <img src = "https://i.pinimg.com/736x/5e/d0/11/5ed011837e30eb8ec7738d3e146cd13a.jpg" width="50" alt="Logo" draggable="false">
+  <img src = "" width="50" alt="Logo" draggable="false">
           </p> 
           <p>
   - If you see sign ata in my nickname in Pony Town, please sign in my ata book, for me:) Thank you for your attention!
-           <img src = "https://i.pinimg.com/736x/8b/d2/94/8bd294621a47aa412e11a1e70018f561.jpg" width="50" alt="Logo" draggable="false">
+           <img src = "https://i.pinimg.com/736x/88/e6/67/88e667f4baf0e2fb1be7a1196c3b7154.jpg" width="50" alt="Logo" draggable="false">
           </p> 
             <p>
       (Straw Page - the same info page, only a little better)
           </p> 
-  <img src = "https://i.pinimg.com/1200x/5a/b4/f4/5ab4f401cc5f617576a250d7c5acc845.jpg" width="150" alt="Logo" draggable="false">
+  <img src = "https://i.pinimg.com/1200x/bc/56/4d/bc564d32eecc5260d6dd6a8c2e5bc6e5.jpg" width="150" alt="Logo" draggable="false">
 
      
