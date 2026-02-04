@@ -28,7 +28,7 @@
           </p> 
 <p>
     - My fandoms: FORSAKEN, Bloxy Tales, Phighting, JSAB, The Pink Corruption, ^_^, DOOM, Stray, Transformers, Skibidi Toilets, Metal Card Bots, Tobots, Madness Combat and more!
-  <img src = "" width="50" alt="Logo" draggable="false">
+  <img src = "https://i.pinimg.com/736x/e6/cc/f9/e6ccf9b630860b4fd95483a07e31527d.jpg" width="50" alt="Logo" draggable="false">
           </p> 
           <p>
   - If you see sign ata in my nickname in Pony Town, please sign in my ata book, for me:) Thank you for your attention!
