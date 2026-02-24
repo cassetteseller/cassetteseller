@@ -16,7 +16,7 @@
       <div class = "post"> 
         
   <div>
-          <h3> Hi! Im a cassetteseller (just nickname) or seller! </h3>
+          <h3> Hi! Im a cassetteseller (just nickname) or cassette! </h3>
           <p>
           - My pronouns are she/her, rarely he/his.  
            <img src = "https://i.pinimg.com/736x/82/aa/b2/82aab2e391476888955b1b0c0da320ed.jpg" width="50" alt="Logo" draggable="false">
